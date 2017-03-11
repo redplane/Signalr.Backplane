@@ -1,0 +1,5 @@
+E:\Programming\Net Framework\Web\.Net Framework\Signalr.Backplane\A - SOURCE\Shared\bin\Debug\Signalr.Backplane.Shared.dll
+E:\Programming\Net Framework\Web\.Net Framework\Signalr.Backplane\A - SOURCE\Shared\bin\Debug\Signalr.Backplane.Shared.pdb
+E:\Programming\Net Framework\Web\.Net Framework\Signalr.Backplane\A - SOURCE\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+E:\Programming\Net Framework\Web\.Net Framework\Signalr.Backplane\A - SOURCE\Shared\obj\Debug\Signalr.Backplane.Shared.dll
+E:\Programming\Net Framework\Web\.Net Framework\Signalr.Backplane\A - SOURCE\Shared\obj\Debug\Signalr.Backplane.Shared.pdb

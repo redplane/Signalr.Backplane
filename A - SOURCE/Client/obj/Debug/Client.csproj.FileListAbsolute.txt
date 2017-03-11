@@ -1,0 +1,12 @@
+E:\Programming\Net Framework\Web\.Net Framework\Signalr.Backplane\A - SOURCE\Client\bin\Debug\Signalr.Backplane.Client.exe.config
+E:\Programming\Net Framework\Web\.Net Framework\Signalr.Backplane\A - SOURCE\Client\bin\Debug\Signalr.Backplane.Client.exe
+E:\Programming\Net Framework\Web\.Net Framework\Signalr.Backplane\A - SOURCE\Client\bin\Debug\Signalr.Backplane.Client.pdb
+E:\Programming\Net Framework\Web\.Net Framework\Signalr.Backplane\A - SOURCE\Client\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\Programming\Net Framework\Web\.Net Framework\Signalr.Backplane\A - SOURCE\Client\bin\Debug\Newtonsoft.Json.dll
+E:\Programming\Net Framework\Web\.Net Framework\Signalr.Backplane\A - SOURCE\Client\bin\Debug\Signalr.Backplane.Shared.dll
+E:\Programming\Net Framework\Web\.Net Framework\Signalr.Backplane\A - SOURCE\Client\bin\Debug\Signalr.Backplane.Shared.pdb
+E:\Programming\Net Framework\Web\.Net Framework\Signalr.Backplane\A - SOURCE\Client\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\Programming\Net Framework\Web\.Net Framework\Signalr.Backplane\A - SOURCE\Client\bin\Debug\Newtonsoft.Json.xml
+E:\Programming\Net Framework\Web\.Net Framework\Signalr.Backplane\A - SOURCE\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Programming\Net Framework\Web\.Net Framework\Signalr.Backplane\A - SOURCE\Client\obj\Debug\Signalr.Backplane.Client.exe
+E:\Programming\Net Framework\Web\.Net Framework\Signalr.Backplane\A - SOURCE\Client\obj\Debug\Signalr.Backplane.Client.pdb

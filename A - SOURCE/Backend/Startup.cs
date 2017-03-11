@@ -25,6 +25,10 @@ namespace Signalr.Backplane.Service
             // Dependency injection registration.
             InversionOfControlConfig.Register();
 
+            // Use redis for being backplane.
+            GlobalHost.DependencyResolver.UseRedis("redis-11722.c8.us-east-1-4.ec2.cloud.redislabs.com", 11722,
+                "Fingerlickinggood", "iConfess");
+
             // Map signalr hubs.
             app.Map("/signalr", map =>
             {
